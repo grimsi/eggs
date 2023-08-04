@@ -10,6 +10,8 @@
 * [BeamMP Server](beamng/beammp)
 * [KissMP](beamng/kissmp)
 
+[Call of Duty 4x](cod4x)
+
 [ClassiCube](classicube)
 
 * [MCGalaxy](classicube/mcgalaxy)
